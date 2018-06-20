@@ -5,4 +5,4 @@ imagen de la vista en celular
 ![](imagen/celular.jpg)
 
 la estructura de directorio es en
-![](imagen/diagrama.jpg)
+![](imagen/diagrama.jpg)# tiatomate
