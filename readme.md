@@ -24,13 +24,13 @@ iconos
 
 tipografia
 las fuentes a utilizar son
-![](fuentes/OpenSans-Regular.ttf)
-![](fuentes/Raleway-Bold.ttf)
-![](fuentes/Raleway-ExtraLight.ttf)
+OpenSans-Regular.ttf
+Raleway-Bold.ttf
+Raleway-ExtraLight.ttf
 
 colores
 La paleta de colores a usar es 
-![](fuentes/color.png)
+![](fuentes/colors.png)
 
 
 
